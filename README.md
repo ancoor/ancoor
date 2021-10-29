@@ -32,7 +32,7 @@
 <img alt="CodeIgniter" src="https://img.shields.io/badge/codeigniter%20-%2343853D.svg?&style=for-the-badge&logo=codeigniter&logoColor=white" style="margin:2px;"/>
 <img alt="Laravel" src ="https://img.shields.io/badge/laravel-%23D14836.svg?&style=for-the-badge&logo=laravel&logoColor=white" style="margin:2px;"/>
 <img alt="MySQL" src="https://img.shields.io/badge/mysql%20-%23F05033.svg?&style=for-the-badge&logo=mysql&logoColor=white" style="margin:2px;"/>
-<img alt="GIT" src="https://img.shields.io/badge/git%20-%23305033.svg?&style=for-the-badge&logo=git&logoColor=white" style="margin:2px;"/>
+<img alt="GIT" src="https://img.shields.io/badge/git%20-%23323330.svg?&style=for-the-badge&logo=git&logoColor=white" style="margin:2px;"/>
 <br/>
 </p>
 
