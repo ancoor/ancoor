@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ancoor&label=Profile%20views&color=0e75b6&style=flat" alt="ancoor" /> </p>
 
 
-[<img src="https://img.shields.io/twitter/follow/backbench_coder?logo=twitter&style=for-the-badge" />](https://twitter.com/AncoorBanerjee)
+[<img src="https://img.shields.io/twitter/follow/AncoorBanerjee?logo=twitter&style=for-the-badge" />](https://twitter.com/AncoorBanerjee)
  [<img src="https://img.shields.io/youtube/channel/views/UClW8d1f5m0QAE_Ig024EP6A?logo=youtube&style=for-the-badge">](https://www.youtube.com/channel/UCkknRiye1uGkGErGWQZUQhg)
 [<img src="https://img.shields.io/github/followers/ancoor?logo=github&style=for-the-badge&logoColor=white">](https://github.com/ancoor)
 [<img alt="GMail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:ancoorbanerjee7@gmail.com)
