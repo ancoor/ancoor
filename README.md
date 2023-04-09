@@ -30,7 +30,7 @@
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin:2px;"/>
 <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" style="margin:2px;"/>
 <img alt="CodeIgniter" src="https://img.shields.io/badge/codeigniter%20-%2343853D.svg?&style=for-the-badge&logo=codeigniter&logoColor=white" style="margin:2px;"/>
-<img alt="Node" src ="https://img.shields.io/badge/node-%23D14836.svg?&style=for-the-badge&logo=node&logoColor=white" style="margin:2px;"/>
+<img alt="Node" src ="https://img.shields.io/badge/node-%23D14836.svg?&style=for-the-badge&logo=express&logoColor=white" style="margin:2px;"/>
 <img alt="MySQL" src="https://img.shields.io/badge/mysql%20-%23F05033.svg?&style=for-the-badge&logo=mysql&logoColor=white" style="margin:2px;"/>
 <img alt="GIT" src="https://img.shields.io/badge/git%20-%23323330.svg?&style=for-the-badge&logo=git&logoColor=white" style="margin:2px;"/>
 <br/>
