@@ -9,16 +9,16 @@
 [<img src="https://img.shields.io/github/followers/ancoor?logo=github&style=for-the-badge&logoColor=white">](https://github.com/ancoor)
 [<img alt="GMail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:ancoorbanerjee7@gmail.com)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/ancoor-banerjee-140b14134/)
-[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://ancoor-portfolio.netlify.app/)
+[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://ancoorbanerjee.vercel.app/)
 
 
 - 🔭 I’m currently working on [Next.js Portfolio](https://ancoorbanerjee.vercel.app/)
 
 - 🌱 I’m currently learning React js**
 
-- 👨‍💻 All of my projects are available at [ancoor-portfolio.netlify.app](https://ancoor-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [Full Stack Portfolio](https://ancoor-portfolio.netlify.app/)
 
-- 👨‍💻 Visit my new portfolio at [Ancoor Banerjee Next.js Portfolio](https://ancoorbanerjee.vercel.app/)
+- 👨‍ Visit my new portfolio at [Ancoor Banerjee Next.js Portfolio](https://ancoorbanerjee.vercel.app/)
 
 - 📫 How to reach me **ancoorbanerjee7@gmail.com**
 
