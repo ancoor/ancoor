@@ -12,11 +12,13 @@
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://ancoor-portfolio.netlify.app/)
 
 
-- 🔭 I’m currently working on [Next.js Portfolio](https://ancoor-portfolio.netlify.app/)
+- 🔭 I’m currently working on [Next.js Portfolio](https://ancoorbanerjee.vercel.app/)
 
 - 🌱 I’m currently learning React js**
 
 - 👨‍💻 All of my projects are available at [ancoor-portfolio.netlify.app](https://ancoor-portfolio.netlify.app/)
+
+- 👨‍💻 Visit my new portfolio at [Ancoor Banerjee Next.js Portfolio](https://ancoorbanerjee.vercel.app/)
 
 - 📫 How to reach me **ancoorbanerjee7@gmail.com**
 
