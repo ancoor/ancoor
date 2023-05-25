@@ -5,7 +5,6 @@
 
 
 [<img src="https://img.shields.io/twitter/follow/AncoorBanerjee?logo=twitter&style=for-the-badge" />](https://twitter.com/AncoorBanerjee)
-[<img src="https://img.shields.io/youtube/channel/views/UCkknRiye1uGkGErGWQZUQhg?logo=youtube&style=for-the-badge">](https://www.youtube.com/channel/UCkknRiye1uGkGErGWQZUQhg)
 [<img src="https://img.shields.io/github/followers/ancoor?logo=github&style=for-the-badge&logoColor=white">](https://github.com/ancoor)
 [<img alt="GMail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:ancoorbanerjee7@gmail.com)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/ancoor-banerjee-140b14134/)
